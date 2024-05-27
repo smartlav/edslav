@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <total>7</total>
+    <offset>0</offset>
+    <limit>7</limit>
+    <data>
+        <Source>name</Source>
+        <Destination>displayed </Destination>
+    </data>
+    <data>
+        <Source>fldPanelType</Source>
+        <Destination>"FALSE"</Destination>
+    </data>
+    <data>
+        <Source>code</Source>
+        <Destination>"TRUE"</Destination>
+    </data>
+    <data>
+        <Source>exchAmt</Source>
+        <Destination>"TRUE"</Destination>
+    </data>
+    <data>
+        <Source>include</Source>
+        <Destination>"TRUE"</Destination>
+    </data>
+    <data>
+        <Source>purchaseType</Source>
+        <Destination>"TRUE"</Destination>
+    </data>
+    <data>
+        <Source>Commission Look Up</Source>
+        <Destination>"TRUE"</Destination>
+    </data>
+    <data>
+        <Source>button</Source>
+        <Destination>"FALSE"</Destination>
+    </data>
+</root>

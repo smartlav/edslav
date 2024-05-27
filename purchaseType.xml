@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Element>
+    <element name="purchaseType" Attribute9="" Attribute8="" Attribute7="fd/af/components/guidedropdownlist" Attribute6="" Attribute5="" Attribute4="/basefund_type/purchaseType" Attribute3="Purchase Type" Attribute2="guideDropDownList" Attribute1="&quot;TRUE&quot;" Attribute10="" Attribute12="" Attribute11="" Attribute14="" Attribute13="" Attribute16="" Attribute15="Purchase Type is a required field" Attribute17=""/>
+</Element>

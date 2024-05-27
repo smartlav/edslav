@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Element>
+    <element name="name" Attribute9="customGrp" Attribute8="customType" Attribute7="inheitedClass" Attribute6="superClassName" Attribute5="length" Attribute4="dataLink" Attribute3="title" Attribute2="class" Attribute1="displayed " Attribute10="decimalPts" Attribute12="screenPattern" Attribute11="wholeDgts" Attribute14="ENUM" Attribute13="requiredMsg" Attribute16="sectionLink" Attribute15="errorMsg" Attribute17="stepValNeeded"/>
+</Element>
